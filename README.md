@@ -1,1 +1,1 @@
-# Technolabs-final-project
+# Pixel-Project-Management-Application
